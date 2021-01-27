@@ -1,1 +1,1 @@
-print("test")
+print("test", os.getenv("m1")
